@@ -3,7 +3,7 @@
   "version": "0.0.2-alpha.0",
   "description": "> TODO: description",
   "author": "Kaven <haiteng.long@yintech.cn>",
-  "homepage": "https://github.com/KavenLong/lerna-test#readme",
+  "homepage": "https://github.com/KavenLong/erna-test#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KavenLong/lerna-test.git"
+    "url": "git+https://github.com/KavenLong/erna-test.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/KavenLong/lerna-test/issues"
+    "url": "https://github.com/KavenLong/erna-test/issues"
   }
 }

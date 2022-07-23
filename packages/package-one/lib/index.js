@@ -5,4 +5,4 @@ module.exports = packageOne
 function packageOne () {
   // TODO
 }
-console.log(cloneDeep(arr))
+console.log(cloneDeep(arr), 'test')
