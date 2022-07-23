@@ -1,7 +1,8 @@
-'use strict';
+'use strict'
 
-const packageTwo = require('..');
+const packageTwo = require('../lib')
 
 describe('@my-demo/package-two', () => {
-    it('needs tests');
-});
+  it('needs tests')
+})
+console.log(packageTwo)
