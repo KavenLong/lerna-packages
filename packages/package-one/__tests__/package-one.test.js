@@ -2,7 +2,7 @@
 
 const packageOne = require('../lib')
 
-describe('@my-demo/package-one', () => {
+describe('@jf-demo/package-one', () => {
   it('needs tests')
 })
 console.log(packageOne)
