@@ -1,0 +1,10 @@
+33 error Error: Command failed with exit code 1: git add -- packages/package-two/package.json packages/package-one/package.json lerna.json
+33 error The following paths are ignored by one of your .gitignore files:
+33 error packages
+33 error hint: Use -f if you really want to add them.
+33 error hint: Turn this message off by running
+33 error hint: "git config advice.addIgnoredFile false"
+33 error     at makeError (/Users/haiteng.long/Desktop/root/node_modules/execa/lib/error.js:60:11)
+33 error     at handlePromise (/Users/haiteng.long/Desktop/root/node_modules/execa/index.js:118:26)
+33 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+33 error     at async Promise.all (index 0)
