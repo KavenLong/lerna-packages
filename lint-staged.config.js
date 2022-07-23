@@ -1,4 +1,4 @@
-import micromatch from 'micromatch'
+const micromatch = require('micromatch')
 
 export default {
   '*.js': (files) => {
