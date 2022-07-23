@@ -9,7 +9,7 @@
     "init": "lerna bootstrap",
     "clean": "lerna clean",
     "test": "jest",
-    "pub": "yarn build && lerna publish",
+    "pub": "lerna publish",
     "build": "lerna exec -- babel lib -d dist --config-file ../../babel.config.js"
   },
   "config": {
