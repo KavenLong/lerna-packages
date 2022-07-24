@@ -1,6 +1,6 @@
 {
   "name": "@jf-demo/package-one",
-  "version": "0.0.0",
+  "version": "0.1.0-alpha.1",
   "description": "> TODO: description",
   "author": "Kaven <haiteng.long@yintech.cn>",
   "homepage": "https://github.com/KavenLong/lerna-packages#readme",
