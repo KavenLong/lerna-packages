@@ -1,9 +1,9 @@
 {
   "name": "@jf-demo/package-two",
-  "version": "0.0.3-alpha.0",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Kaven <haiteng.long@yintech.cn>",
-  "homepage": "https://github.com/KavenLong/erna-test#readme",
+  "homepage": "https://github.com/KavenLong/lerna-packages#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KavenLong/erna-test.git"
+    "url": "git+https://github.com/KavenLong/lerna-packages.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/KavenLong/erna-test/issues"
+    "url": "https://github.com/KavenLong/lerna-packages/issues"
   }
 }
