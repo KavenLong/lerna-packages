@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0-alpha.2](https://github.com/KavenLong/lerna-packages/compare/v0.1.0-alpha.1...v0.1.0-alpha.2) (2022-07-28)
+
+
+### Features
+
+* **main:** 新增文档说明 ([fe522f4](https://github.com/KavenLong/lerna-packages/commit/fe522f472ee09039b8584c507aebe3e003d0d60c))
+* **master:** 测试 ([d902bf6](https://github.com/KavenLong/lerna-packages/commit/d902bf69740da3d470843e7ebb988546e94ea43b))
+
+
+
+
+
 # [0.1.0-alpha.1](https://github.com/KavenLong/lerna-packages/compare/v0.1.0-alpha.0...v0.1.0-alpha.1) (2022-07-24)
 
 
